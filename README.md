@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Teknologi & Verktøy
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,docker,linux,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=powershell,python,docker,linux,github,vscode" />
 </p>
 
 ---
