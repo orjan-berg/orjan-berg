@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 ---
 
 ### 👷 Hva jeg jobber med
-- 🔭 Jeg jobber for tiden med ...
+- 🔭 Jeg er senior konsulent hos Exsitec AS, innen fagområdene Visma Business og Business NXT.
 - 🌱 Jeg lærer akkurat nå ...
 - 💬 Spør meg om ...
 
 ### 📫 Kontakt meg
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](din-link)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](din-link)
+<p align="left">
+  <a href="https://bsky.app/profile/orjan-berg.bsky.social"><img src="https://cdn.simpleicons.org/bluesky/0085FF" height="40" alt="Bluesky" /></a>
+  <a href="https://www.linkedin.com/in/%C3%B8rjan-berg-b0598181/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+</p>
